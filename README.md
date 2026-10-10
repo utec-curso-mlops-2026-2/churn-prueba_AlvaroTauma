@@ -23,4 +23,5 @@ El script lee los hiperparámetros de `config.json`, entrena un Random Forest y 
 ## Equipo
 
 Alvaro Tauma Salvador 
+
 Manuel Reyes
