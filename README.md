@@ -22,4 +22,5 @@ El script lee los hiperparámetros de `config.json`, entrena un Random Forest y 
 
 ## Equipo
 
-<!-- Misión 4: la Persona B agrega aquí los nombres de la pareja -->
+Alvaro Tauma Salvador 
+Manuel Reyes
